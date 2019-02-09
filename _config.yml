@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "Edgar Barraza"
-  avatar           : #"/assets/images/professional_me.jpeg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/professional_me.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Researcher"
   location         : "Ithaca, NY"
   email            :
@@ -255,7 +255,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: # true
       share: false
