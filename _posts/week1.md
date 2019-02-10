@@ -1,0 +1,36 @@
+title: Week 1: Syllabus & Orientation 
+date: 2019-02-08
+
+## Week 1 
+I just finished a fulfilling first week for the OpenAI Scholars program. Here's a 
+sweet pic of our time in the office. 
+
+![alt text]["/assets/images/group_photo.jpg"]
+
+Going into the office and speaking with the folks working there really helped me 
+change the way I think about the work I will be doing. They all set a benchmark for the 
+depth of knowledge I am seeking to attain in this field. I also learned from 
+speaking to fellow cohort members. They all have such varied backgrounds, so 
+hearing their project ideas helped me understand different possibilities within the 
+realm of AI, and helped me think of new ways I could utilize AI for others. 
+
+I seek to utilize AI to create resources for other people. I believe the most powerful 
+thing is when people are able to help other people. People strive to help
+each other, but are not always able to due to circumstances out of their control. With 
+advances in AI, computers are now able to do a lot of things people can, and sometimes 
+they can do those things better! I wish to use AI to provide people with resources 
+they don't have access to that they previously needed another person to provide, 
+all for the free! 
+
+To come closer to this goal, I will be studying Natural Language Processing 
+during Scholar's program since people interact with each other using language. 
+I want to develop a system that's responsive to human needs, so I will also be 
+studying Reinforcement Learning. In this age of big-data, we have access to more unlabelled text data than
+we know what to do with, so to develop a system to take advantage of this abundance 
+I will also study unsupervised learning. 
+
+My goal for my project is to understand recent developments in natural language understanding
+and question answering systems to contribute a new development, and to deploy 
+this project on the web for people to use. I'm  excited to share my progress as time
+passes. In the mean time, here's [my syllabus]({{ Edy-Barraza.github.io }}/assets/OpenAI_Scholars_Syllabus_Edgar_Barraza.pdf) 
+for the next few months. 
