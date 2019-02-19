@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : "Edgar Barraza"
-description              : "Edgar's Website"
+description              : "Edgar Barraza"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Edgar Barraza"
   avatar           : "/assets/images/professional_me.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Researcher"
+  bio              : "OpenAI Scholar"
   location         : "Ithaca, NY"
   email            : "eab326@cornell.edu"
   uri              :
